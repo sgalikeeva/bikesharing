@@ -37,7 +37,7 @@ These three heatmaps show how many trips are taken by the hour for each day of t
 
 This heatmap shows a  breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. The type of users are customer and subscriber. Subscribers are annual subscribers of the bike-sharing service, while customers are short-term, one-off riders. From this viz, subscribers use the bike-sharing service constantly every day of the week, whereas customers are more likely to use the service on weekends. 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary
 
 From the results, a few points can be extrapolated to apply the New York bike-sharing data to a potential Des Moines bike-sharing service. Out of the users, there will be more males than females. Annual subscribers will use the service more often than a one-off customer. Commuting hours will be the most popular times of day that the service will be used.
 
