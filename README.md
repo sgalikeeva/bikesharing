@@ -1,7 +1,7 @@
 # Bike Sharing Analysis
 
 ## Link to Tableau Story
-Click here for dashboard
+[Click here for dashboard](https://public.tableau.com/shared/CXZF8YNNB?:display_count=n&:origin=viz_share_link).
 
 ## Overview of the analysis
 The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. Data from New York City's bike-sharing program is used to extrapolate data to use in the analysis for Des Moines. 
@@ -41,4 +41,4 @@ This heatmap shows a  breakdown of what days of the week a user might be more li
 
 From the results, a few points can be extrapolated to apply the New York bike-sharing data to a potential Des Moines bike-sharing service. Out of the users, there will be more males than females. Annual subscribers will use the service more often than a one-off customer. Commuting hours will be the most popular times of day that the service will be used.
 
-Two additional visualizations that can be performed with the given dataset are whether age correlates to what kind of usertype a rider is and trip duration by gender and age. 
+Two additional visualizations that can be performed with the given dataset are whether age correlates to what kind of usertype a rider is and trip duration by gender and age and how it compares. 
